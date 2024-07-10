@@ -34,3 +34,5 @@ Information is updated dynamically based on the latest data from the OpenWeather
 React: For building the user interface and managing state.
 CSS: For styling the components and creating a visually appealing design.
 OpenWeather API: To fetch real-time weather data.
+
+Live link :https://weather-app-by-salmanrancho.netlify.app/
